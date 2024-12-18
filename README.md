@@ -3,7 +3,7 @@ Those code examples about design pattern have the purpose of personal use, to ea
 
 The major source of the examples is a Youtube channel of [DoableDanny](https://www.youtube.com/@doabledanny/videos), he's a very good developer. I suggest to all to buy 📒his book about design pattern 📒 , it's very clear.
 
-# Prototype patter
+# Prototype pattern
  Create a prototypical instance of kind of object and creates new object using this prototype. \
 Generates a photocopy of another object, instead create new form scratch. \
 Usefull for complicated constructor phase or resource intensive construction. \
